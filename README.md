@@ -12,4 +12,4 @@
 
 
 # 3. 고객 세그먼트별 매출액 추이 그래프
-![매출액 그래프]https://github.com/son-jy/tableau_graph/blob/main/%EC%9D%B4%EC%A4%91%EC%B6%95.png)
+![매출액 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%9D%B4%EC%A4%91%EC%B6%95.png)
