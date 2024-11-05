@@ -19,3 +19,8 @@
 # 4. 년도별 매출액 영역차트
 
 ![영역 차트 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%9D%B4%EC%A4%91%EC%B6%95%20%EC%98%81%EC%97%AD%EC%B0%A8%ED%8A%B8.png)
+
+
+# 4. 월별 매출액 라인 그래프 년도 비교
+
+![매출 연도 비교 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EB%A7%A4%EC%B6%9C%20%EC%97%B0%EB%8F%84%20%EB%B9%84%EA%B5%90.png)
