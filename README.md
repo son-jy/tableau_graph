@@ -13,3 +13,7 @@
 
 # 3. 고객 세그먼트별 매출액 추이 그래프
 ![매출액 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%9D%B4%EC%A4%91%EC%B6%95.png)
+
+
+# 4. 고객 세그먼트별 매출액 누적 막대 그래프
+![누적 막대 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%9D%B4%EC%A4%91%EC%B6%95%20%EB%88%84%EC%A0%81%EB%A7%89%EB%8C%80%EA%B7%B8%EB%9E%98%ED%94%84.png)
