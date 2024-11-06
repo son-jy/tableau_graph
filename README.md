@@ -24,3 +24,8 @@
 # 5. 월별 매출액 라인 그래프 년도 비교
 
 ![매출 연도 비교 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EB%A7%A4%EC%B6%9C%20%EC%97%B0%EB%8F%84%20%EB%B9%84%EA%B5%90.png)
+
+
+# 6. 지역별 매출액 합계 라운드형 막대 그래프
+
+![라운드형 막대 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EB%9D%BC%EC%9A%B4%EB%93%9C%ED%98%95%20%EB%A7%89%EB%8C%80%EC%B0%A8%ED%8A%B8.png)
