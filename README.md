@@ -44,3 +44,8 @@
 # 9. 지역 별 계층 만들기 그래프
 
 ![지역 별 계층 만들기](https://github.com/son-jy/tableau_graph/blob/main/%EC%A7%80%EC%97%AD%EB%B3%84%20%EA%B3%84%EC%B8%B5%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
+
+
+# 10. 지도 그래프
+
+![지도 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%A7%80%EB%A6%AC%EC%A0%81%20%EC%97%AD%ED%95%A0%20%EB%B6%80%EC%97%AC%ED%95%98%EA%B8%B0.png)
