@@ -39,3 +39,8 @@
 # 8. 제품 별 계층 만들기 그래프
 
 ![제품 별 계층 만들기](https://github.com/son-jy/tableau_graph/blob/main/%EC%A0%9C%ED%92%88%EB%B3%84%20%EA%B3%84%EC%B8%B5%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
+
+
+# 9. 지역 별 계층 만들기 그래프
+
+![지역 별 계층 만들기](https://github.com/son-jy/tableau_graph/blob/main/%EC%A7%80%EC%97%AD%EB%B3%84%20%EA%B3%84%EC%B8%B5%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
