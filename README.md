@@ -51,6 +51,6 @@
 ![지도 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%A7%80%EB%A6%AC%EC%A0%81%20%EC%97%AD%ED%95%A0%20%EB%B6%80%EC%97%AC%ED%95%98%EA%B8%B0.png)
 
 
-# 11. 채워진 맵 만들기
+# 11. 서울시 생활권 그래프
 
 ![채워진 맵 만들기](https://github.com/son-jy/tableau_graph/blob/main/%EC%B1%84%EC%9B%8C%EC%A7%84%20%EB%A7%B5%20%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
