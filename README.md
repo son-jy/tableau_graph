@@ -54,3 +54,8 @@
 # 11. 서울시 생활권 그래프
 
 ![채워진 맵 만들기](https://github.com/son-jy/tableau_graph/blob/main/%EC%B1%84%EC%9B%8C%EC%A7%84%20%EB%A7%B5%20%EB%A7%8C%EB%93%A4%EA%B8%B0.png)
+
+
+# 12. 지역별 수량,수익 비교 맵 그래프
+
+![기호맵1](https://github.com/son-jy/tableau_graph/blob/main/%EA%B8%B0%ED%98%B8%EB%A7%B51.png)
