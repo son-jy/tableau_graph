@@ -68,4 +68,4 @@
 
 # 14. 지도 파이 그래프
 
-![지도 파이 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%A7%80%EB%8F%84%20%ED%8C%8C%EC%9D%B4%20%EC%B0%A8%ED%8A%B8.png)
+![지도 파이 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%A7%80%EB%8F%84%20%ED%8C%8C%EC%9D%B4%20%EC%B0%A8%ED%8A%B8%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
