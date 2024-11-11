@@ -64,3 +64,8 @@
 # 13. 연도별 수익별 수익 그래프
 
 ![연도별 수익별 수익 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%97%B0%EB%8F%84%EB%B3%84%20%EC%88%98%EC%9D%B5%EB%B3%84%20%EC%88%98%EC%9D%B5%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
+
+
+# 14. 지도 파이 그래프
+
+![지도 파이 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%A7%80%EB%8F%84%20%ED%8C%8C%EC%9D%B4%20%EC%B0%A8%ED%8A%B8.png)
