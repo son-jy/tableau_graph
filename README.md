@@ -59,3 +59,8 @@
 # 12. 지역별 수량,수익 비교 맵 그래프
 
 ![기호맵1](https://github.com/son-jy/tableau_graph/blob/main/%EA%B8%B0%ED%98%B8%EB%A7%B51.png)
+
+
+# 13. 연도별 수익별 수익 그래프
+
+![연도별 수익별 수익 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%97%B0%EB%8F%84%EB%B3%84%20%EC%88%98%EC%9D%B5%EB%B3%84%20%EC%88%98%EC%9D%B5%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
