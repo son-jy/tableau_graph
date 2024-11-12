@@ -74,3 +74,8 @@
 # 15. 수도권과 기타 지역 매출 영역 그래프
 
 ![수도권 영역 차트 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%88%98%EB%8F%84%EA%B6%8C%20%EC%98%81%EC%97%AD%20%EC%B0%A8%ED%8A%B8(%EA%B7%B8%EB%A3%B9).png)
+
+
+# 16. 고객별 매출 순위표
+
+![고객별 매출 순위표](https://github.com/son-jy/tableau_graph/blob/main/%EB%A7%A4%EC%B6%9C%20%EC%83%81%EC%9C%84%20%EA%B3%A0%EA%B0%9D%20%ED%91%9C(%EC%A7%91%ED%95%A9).png)
