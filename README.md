@@ -69,3 +69,8 @@
 # 14. 지도 파이 그래프
 
 ![지도 파이 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%A7%80%EB%8F%84%20%ED%8C%8C%EC%9D%B4%20%EC%B0%A8%ED%8A%B8%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
+
+
+# 15. 수도권과 기타 지역 매출 영역 그래프
+
+![수도권 영역 차트 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EC%88%98%EB%8F%84%EA%B6%8C%20%EC%98%81%EC%97%AD%20%EC%B0%A8%ED%8A%B8(%EA%B7%B8%EB%A3%B9).png)
