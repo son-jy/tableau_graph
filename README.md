@@ -104,3 +104,8 @@
 # 21. 트리맵 차트
 
 ![트리맵 차트](https://github.com/son-jy/tableau_graph/blob/main/%ED%8A%B8%EB%A6%AC%EB%A7%B5%20%EC%B0%A8%ED%8A%B8.png)
+
+
+# 22. 하이라이트 차트
+
+![하이라이트 차트](https://github.com/son-jy/tableau_graph/blob/main/%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%B0%A8%ED%8A%B8.png)
