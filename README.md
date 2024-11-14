@@ -98,4 +98,4 @@
 
 # 20. 산포도 그래프
 
-![산포도 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EB%A7%A4%EC%B6%9C%20%EC%83%81%EC%9C%84%20%EA%B3%A0%EA%B0%9D%20%ED%91%9C(%EC%A7%91%ED%95%A9).png)
+![산포도 그래프](https://github.com/son-jy/tableau_graph/blob/main/%ED%95%A0%EC%9D%B8%EC%9C%A8.png)
