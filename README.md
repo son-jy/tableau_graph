@@ -83,17 +83,17 @@
 
 # 17. 박스 그래프
 
-![박스 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EB%A7%A4%EC%B6%9C%20%EC%83%81%EC%9C%84%20%EA%B3%A0%EA%B0%9D%20%ED%91%9C(%EC%A7%91%ED%95%A9).png)
+![박스 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EB%B0%95%EC%8A%A4%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
 
 
 # 18. 파이 차트
 
-![파이 차트](https://github.com/son-jy/tableau_graph/blob/main/%EB%A7%A4%EC%B6%9C%20%EC%83%81%EC%9C%84%20%EA%B3%A0%EA%B0%9D%20%ED%91%9C(%EC%A7%91%ED%95%A9).png)
+![파이 차트](https://github.com/son-jy/tableau_graph/blob/main/%ED%8C%8C%EC%9D%B4%20%EC%B0%A8%ED%8A%B8.png)
 
 
 # 19. 도넛 차트
 
-![도넛 차트](https://github.com/son-jy/tableau_graph/blob/main/%EB%A7%A4%EC%B6%9C%20%EC%83%81%EC%9C%84%20%EA%B3%A0%EA%B0%9D%20%ED%91%9C(%EC%A7%91%ED%95%A9).png)
+![도넛 차트](https://github.com/son-jy/tableau_graph/blob/main/%EB%8F%84%EB%84%9B%20%EC%B0%A8%ED%8A%B8.png)
 
 
 # 20. 산포도 그래프
