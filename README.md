@@ -99,3 +99,8 @@
 # 20. 산포도 그래프
 
 ![산포도 그래프](https://github.com/son-jy/tableau_graph/blob/main/%ED%95%A0%EC%9D%B8%EC%9C%A8.png)
+
+
+# 21. 트리맵 차트
+
+![트리맵 차트](https://github.com/son-jy/tableau_graph/blob/main/%ED%8A%B8%EB%A6%AC%EB%A7%B5%20%EC%B0%A8%ED%8A%B8.png)
