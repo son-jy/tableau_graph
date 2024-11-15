@@ -119,3 +119,8 @@
 # 24. 두 개의 그래프 같이 출력하기
 
 ![두 개의 그래프 같이 출력](https://github.com/son-jy/tableau_graph/blob/main/%EB%91%90%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EA%B0%99%EC%9D%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.png)
+
+
+# 24. 라인 하이라이트 그래프
+
+![라인 하이라이트 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EB%9D%BC%EC%9D%B8%20%EC%B0%A8%ED%8A%B8.png)
