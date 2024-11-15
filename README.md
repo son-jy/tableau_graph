@@ -124,3 +124,8 @@
 # 24. 라인 하이라이트 그래프
 
 ![라인 하이라이트 그래프](https://github.com/son-jy/tableau_graph/blob/main/%EB%9D%BC%EC%9D%B8%20%EC%B0%A8%ED%8A%B8.png)
+
+
+# 25. 챗gpt 이후 일자리 변화 그래프
+
+![챗gpt 이후 일자리 변화 그래프](https://github.com/son-jy/tableau_graph/blob/main/chatgpt.png)
