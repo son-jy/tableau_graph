@@ -111,6 +111,6 @@
 ![하이라이트 차트](https://github.com/son-jy/tableau_graph/blob/main/%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%B0%A8%ED%8A%B8.png)
 
 
-# 23. 두 그래프 차이 비교 차트
+# 23. 두 그래프 차이 확인 차트
 
-![두 그래프 차이 비교 차트](https://github.com/son-jy/tableau_graph/blob/main/%EB%91%90%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%B0%A8%EC%9D%B4%20%EB%B9%84%EA%B5%90%20.png)
+![두 그래프 차이 확인 차트](https://github.com/son-jy/tableau_graph/blob/main/%EB%91%90%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%B0%A8%EC%9D%B4%20%EB%B9%84%EA%B5%90%20.png)
